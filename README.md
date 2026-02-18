@@ -33,7 +33,7 @@ Auto-filled details: Employee Name, ID, Email, Manager
 
 View personal request history in “My Profile”
 
-Track status: Submitted, Approved, Rejected
+Track status: Pending, Approved, Rejected
 
 👨‍💼 Manager Features
 
