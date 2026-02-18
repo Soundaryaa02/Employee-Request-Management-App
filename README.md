@@ -49,7 +49,7 @@ View your approval history
 
 🛠 System Features
 
-Automated email notifications for submit + approval + rejection
+Automated email notifications for Pending + Approval + Rejection
 
 SharePoint as secure backend
 
