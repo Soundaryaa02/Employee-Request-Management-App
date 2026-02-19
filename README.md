@@ -125,6 +125,8 @@ Employee submits → Status = Pending
 
 /FlowExport/EmployeeRequestApprovalFlow.zip
 
+/DemoVideo/Employee Request Management.mp4
+
 /Documentation/Employee Request Management.docx
 
 /Presentation/ERM-Process Flow.pptx
@@ -145,6 +147,7 @@ My flows → Import → Upload file
 
 4️⃣ Update SharePoint Connections
 Re-connect the list inside PowerApps.
+
 
 
 🧰 Technologies Used
